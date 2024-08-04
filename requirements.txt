@@ -1,0 +1,12 @@
+numpy>=1.19.1
+pandas==2.2.2
+opencv-python
+streamlit
+matplotlib
+seaborn
+scikit-learn
+joblib
+graphviz
+anaconda
+flask
+django
